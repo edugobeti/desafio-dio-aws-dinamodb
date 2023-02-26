@@ -1,1 +1,1 @@
-# desafio-dio-aws-dinamodb
+# desafio-dio-aws-dynamodb
